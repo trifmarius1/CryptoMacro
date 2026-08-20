@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="add_buy"
+        android:enabled="true"
+        android:icon="@drawable/ic_shortcut_add"
+        android:shortcutShortLabel="@string/shortcut_add_tx">
+        <intent
+            android:action="com.cryptomacro.app.ADD_TRANSACTION"
+            android:targetClass="com.cryptomacro.app.MainActivity" />
+    </shortcut>
+</shortcuts>

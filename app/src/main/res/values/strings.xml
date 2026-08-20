@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CryptoMacro</string>
+    <string name="nav_markets">Markets</string>
+    <string name="nav_portfolio">Portfolio</string>
+    <string name="nav_learn">Learn</string>
+    <string name="nav_settings">Settings</string>
+    <string name="widget_price_label">Favorite crypto ticker</string>
+    <string name="widget_portfolio_label">Portfolio summary</string>
+    <string name="tile_price_label">BTC / ETH price</string>
+    <string name="tile_privacy_label">Privacy screen</string>
+    <string name="shortcut_add_tx">Add buy transaction</string>
+    <string name="disclaimer">Not financial advice. Market data may be delayed. Educational overlays are for research only.</string>
+</resources>

@@ -1,0 +1,37 @@
+# --- Android / Gradle ---
+.gradle/
+**/build/
+captures/
+.cxx/
+local.properties
+*.iml
+.idea/
+.kotlin/
+
+# Built packages (never commit binaries)
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.so
+
+# Signing
+keystore.properties
+*.jks
+*.keystore
+!debug.keystore
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*~
+desktop.ini
+
+# --- Debug dumps / session tooling ---
+.grok/
+uidump.xml
+**/uidump.xml
+docs/_pdf_preview/
