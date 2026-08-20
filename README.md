@@ -2,6 +2,8 @@
 
 Native **Crypto Portfolio & Market Intelligence** app for phones, foldables, tablets, and DeX.
 
+This repository is **only the Android app**. The website lives in a separate repo: [trifmarius1/CryptoDashboard](https://github.com/trifmarius1/CryptoDashboard).
+
 This folder is an Android Studio / Gradle project. The previous React web dashboard was replaced by a Jetpack Compose app that keeps the same market coverage (BTC, ETH, SOL, ADA, S&P 500, gold, TOTAL/BTC.D, Fear & Greed, Shemitah cycles) and adds portfolio, security, and adaptive multi-pane layouts from `docs/SPEC.md`.
 
 ## Open & run
